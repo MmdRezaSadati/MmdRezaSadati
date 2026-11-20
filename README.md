@@ -125,59 +125,6 @@ Integrating AI capabilities into software applications.
 
 ---
 
-## Selected Public Work
-
-A selection of my public repositories and technical explorations.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Overflow](https://github.com/MmdRezaSadati/overflow)
-
-A modern React application built with a recent frontend ecosystem.
-
-`React 19` `Vite` `Tailwind CSS` `React Router`
-
-</td>
-<td width="50%" valign="top">
-
-### [Hexa Squad](https://github.com/MmdRezaSadati/Hexa-Squad)
-
-A React-based application using a structured frontend stack.
-
-`React` `Redux Toolkit` `Axios` `React Router`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Hexa Squad Admin](https://github.com/MmdRezaSadati/Hexa-Squad-Admin)
-
-A dedicated frontend administration interface.
-
-`React` `JavaScript` `Frontend Engineering`
-
-</td>
-<td width="50%" valign="top">
-
-### [Next.js Course](https://github.com/MmdRezaSadati/NextJs-course)
-
-A repository related to Next.js development and learning.
-
-`Next.js` `React` `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/MmdRezaSadati?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
