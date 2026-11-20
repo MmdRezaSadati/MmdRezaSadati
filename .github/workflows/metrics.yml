@@ -36,7 +36,7 @@ jobs:
           base: header
 
           config_timezone: Asia/Tehran
-          config_order: base.header, isocalendar, languages, achievements
+          config_order: base.header, isocalendar, languages
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -45,8 +45,5 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
           plugin_languages_other: yes
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
 
           optimize: css, xml
