@@ -1,139 +1,238 @@
-# Mohammad Reza Sadati
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&text=MOHAMMAD%20REZA%20SADATI&fontSize=39&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20ENGINEER%20%7C%20AI%20ENGINEERING&descAlignY=62&descSize=17&color=0:080D18,35:111C32,70:183A65,100:2563EB" width="100%" alt="Mohammad Reza Sadati — Full-Stack Engineer" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:1E3A8A,100:2563EB&text=Mohammad%20Reza%20Sadati&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20AI%20Engineering&descAlignY=62&descSize=18" width="100%" alt="Profile banner" />
+<br/>
 
-<a href="https://github.com/MmdRezaSadati">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Applications;Backend+Development+%26+System+Design;Exploring+AI+Engineering+%26+RAG" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+modern+software+systems.;Engineering+reliable+backend+architectures.;Connecting+software+engineering+with+AI.;Turning+complex+problems+into+practical+solutions." alt="Typing introduction" />
 </a>
 
-<p>
-  <a href="mailto:reza.sadati.personal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/MmdRezaSadati">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br/>
+
+<a href="mailto:reza.sadati.personal@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+<a href="https://github.com/MmdRezaSadati">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**Software Engineering · Full-Stack Development · AI Engineering**
 
 </div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-I'm a Full-Stack Software Engineer with professional experience dating back to 2019, focused on building modern web applications, reliable backend systems, and practical AI-powered solutions.
+I'm **Mohammad Reza Sadati**, a Full-Stack Software Engineer with professional experience dating back to 2019.
 
-My primary development ecosystem includes **React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL, Python, and FastAPI**.
+I build web applications and backend systems, with a strong focus on modern JavaScript/TypeScript ecosystems, Python-based backend development, and practical AI integration.
 
-I work across the application lifecycle — from frontend architecture and API design to backend implementation, database integration, and AI-powered features.
+My work spans the software development lifecycle — from frontend architecture and API design to database modeling, backend implementation, and AI-powered application development.
 
-I'm particularly interested in the intersection of software engineering and artificial intelligence, including **LLM integration, Retrieval-Augmented Generation (RAG), and AI-driven application development**.
+I care about more than making software work. I care about how systems are designed, how components communicate, how they evolve, and how engineering decisions affect long-term maintainability.
 
-I value maintainable architecture, clear engineering decisions, and software that solves real problems.
+Currently, my main engineering interests are:
 
-## Technical Skills
+- Full-stack application architecture
+- Backend engineering and API design
+- Scalable and maintainable software systems
+- LLM-powered applications and RAG
+- Practical AI integration into real-world products
 
-### Frontend Development
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite" alt="Frontend technologies" />
-</p>
+## Engineering Domains
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Frontend Engineering
+
+Building modern, maintainable, and responsive user interfaces.
 
 - React.js
 - Next.js
-- TypeScript & JavaScript
-- State Management
-- Responsive Web Development
+- TypeScript
+- JavaScript
 - Component Architecture
+- State Management
+- Responsive UI
 
-### Backend Development
+</td>
+<td width="33%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,postgres,prisma" alt="Backend technologies" />
-</p>
+### Backend Engineering
 
-- Node.js & Express.js
+Designing APIs, application logic, and data-driven systems.
+
+- Node.js
+- Express.js
 - NestJS
-- Python & FastAPI
-- REST API Development
+- Python
+- FastAPI
 - PostgreSQL
-- Database Design
-- Authentication & Authorization
+- REST API Design
+
+</td>
+<td width="33%" valign="top">
 
 ### AI Engineering
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-</p>
+Integrating AI capabilities into software applications.
 
-- Large Language Model (LLM) Integration
-- Retrieval-Augmented Generation (RAG)
-- AI-powered Application Development
-- AI Integration with JavaScript and Python
-- Backend Systems for AI-driven Applications
+- LLM Integration
+- Retrieval-Augmented Generation
+- RAG-based Applications
+- AI-powered Workflows
+- Python & JavaScript AI Integration
 
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" alt="Development tools" />
-</p>
-
-- Git & GitHub
-- Docker
-- Linux
-- VS Code
-- Postman
+</td>
+</tr>
+</table>
 
 ---
 
-## Engineering Approach
+## Technology Stack
 
-I approach software development as an engineering discipline, not just an implementation task.
+### Languages
 
-My focus areas include:
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css" alt="Programming languages"/>
+</p>
 
-- **Architecture First:** Understanding requirements, system boundaries, and trade-offs before implementation.
-- **Maintainability:** Writing code that remains understandable and extensible as projects evolve.
-- **API Design:** Building predictable interfaces and well-defined contracts between systems.
-- **Scalability:** Considering performance, data models, and system constraints from the beginning.
-- **Practical AI:** Integrating AI capabilities where they create measurable value rather than adding AI for its own sake.
+### Frontend
 
-## What I'm Working On
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" alt="Frontend technologies"/>
+</p>
 
-- Building full-stack applications with modern JavaScript and Python ecosystems.
-- Improving backend architecture and API engineering.
-- Exploring advanced RAG workflows and LLM-powered applications.
-- Applying software engineering principles to AI-driven products.
+### Backend & Database
 
-## GitHub Statistics
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,postgres,prisma" alt="Backend technologies"/>
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postman" alt="Development tools"/>
+</p>
+
+---
+
+## Selected Public Work
+
+A selection of my public repositories and technical explorations.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Overflow](https://github.com/MmdRezaSadati/overflow)
+
+A modern React application built with a recent frontend ecosystem.
+
+`React 19` `Vite` `Tailwind CSS` `React Router`
+
+</td>
+<td width="50%" valign="top">
+
+### [Hexa Squad](https://github.com/MmdRezaSadati/Hexa-Squad)
+
+A React-based application using a structured frontend stack.
+
+`React` `Redux Toolkit` `Axios` `React Router`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Hexa Squad Admin](https://github.com/MmdRezaSadati/Hexa-Squad-Admin)
+
+A dedicated frontend administration interface.
+
+`React` `JavaScript` `Frontend Engineering`
+
+</td>
+<td width="50%" valign="top">
+
+### [Next.js Course](https://github.com/MmdRezaSadati/NextJs-course)
+
+A repository related to Next.js development and learning.
+
+`Next.js` `React` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/MmdRezaSadati?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MmdRezaSadati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmdRezaSadati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=MmdRezaSadati&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="100%" src="./metrics.svg" alt="GitHub Metrics — languages, achievements and contribution calendar"/>
 
 </div>
 
-## Let's Connect
+---
 
-I'm open to discussing software engineering, full-stack development, backend architecture, and AI-powered applications.
+## Contribution Activity
 
-<p align="center">
-  <a href="mailto:reza.sadati.personal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-reza.sadati.personal%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/MmdRezaSadati">
-    <img src="https://img.shields.io/badge/GitHub-MmdRezaSadati-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/MmdRezaSadati/MmdRezaSadati/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
 
 ---
 
+## Current Engineering Focus
+
+| Area | Focus |
+|---|---|
+| Full-Stack Development | Building end-to-end web applications |
+| Backend Engineering | API architecture, data modeling and application logic |
+| AI Engineering | LLM integration and RAG-based applications |
+| System Design | Maintainability, modularity and engineering trade-offs |
+| Software Quality | Reliable implementation and long-term maintainability |
+
+---
+
+## Education & Certification
+
+**CS50x — Harvard University**
+
+- Score: 96/100
+- [View Certificate](https://cs50.harvard.edu/certificates/cd98b19a-67f3-4494-9485-a0223a61d612)
+
+---
+
+## Let's Build Something
+
+I'm interested in collaborating on meaningful software projects, full-stack application development, backend systems, and AI-powered products.
+
+If you have an engineering challenge or a project worth building, feel free to reach out.
+
 <div align="center">
-  <sub>Building software with purpose. Engineering with intent.</sub>
+
+<a href="mailto:reza.sadati.personal@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_TALK-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
+</a>
+
+<br/><br/>
+
+<sub>Engineering with purpose. Building for the long term.</sub>
+
 </div>
