@@ -191,8 +191,20 @@ A repository related to Next.js development and learning.
 ## Contribution Activity
 
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/MmdRezaSadati/MmdRezaSadati/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MmdRezaSadati/MmdRezaSadati/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MmdRezaSadati/MmdRezaSadati/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/MmdRezaSadati/MmdRezaSadati/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
